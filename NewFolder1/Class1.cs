@@ -8,6 +8,7 @@ namespace htmlcssPage.NewFolder1
     public class Class1
     {
         public int id { get; set; }
-        public string name { get; set; }
+        public string firstname { get; set; }
+        public string lastname { get; set; }
     }
 }
