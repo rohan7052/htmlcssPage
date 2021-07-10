@@ -10,5 +10,6 @@ namespace htmlcssPage.NewFolder1
         public int id { get; set; }
         public int hello{get; set;}
         //this class is used to talk with db
+        public string name {get; set;}
     }
 }
