@@ -8,5 +8,6 @@ namespace htmlcssPage.NewFolder1
     public class redhot
     {
         public int id { get; set; }
+        public int hello{get; set;}
     }
 }
