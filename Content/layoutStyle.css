@@ -1,0 +1,22 @@
+﻿body {
+ background-color:green;
+}
+header{
+    background-color:aliceblue;
+    margin:0px 0px;
+}
+.ron li {
+    list-style-type: none;
+    display: inline;
+    font-size: 1.85em;
+    margin-left: 10px;
+
+}
+.ron{
+    margin-top:30px;
+    margin-left:50px;
+}
+#left-1{
+    float:right;
+    margin-right:40px;
+}

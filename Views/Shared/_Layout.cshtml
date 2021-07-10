@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Application</title>
+    <link href="~/Content/layoutStyle.css" rel="stylesheet" />
+    <link href="~/Content/layoutStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <ul class="ron">
+            <li>Home</li>
+            <li>About us</li>
+            <li id="left-1">Contact us</li>
+        </ul>
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        <ul class="ron">
+            <li>contact us </li>
+            <li>help us to improve</li>
+        </ul>
+    </footer>
+</body>
+</html>
