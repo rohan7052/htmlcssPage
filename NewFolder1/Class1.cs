@@ -11,5 +11,6 @@ namespace htmlcssPage.NewFolder1
         public string firstname { get; set; }
         public string lastname { get; set; }
         public string kya be;
+        public string hello;
     }
 }
